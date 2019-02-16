@@ -1,0 +1,46 @@
+ul.nav.nav-tabs.nav-white {
+    border-bottom: 1px solid #ecf0f1;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: #ecf0f1;
+}
+
+.tab-content {
+    margin-top: 100px;
+}
+
+img.img-circle {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+
+div#typedtext {
+    background-color:  white;
+    border-radius: 15px;
+    padding: 21px 40px;
+    color: #484141bd;
+    font-size: 16px;
+    font-weight: 600;
+    width:80%;
+}
+
+.lanjut {
+    background-color: #c5f6fd;
+    width: 75px;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px solid #d9fdfc;
+}
+a {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+section.panel {
+    border-radius: 10px;
+}

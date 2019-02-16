@@ -1,0 +1,611 @@
+.mapel {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #6dc1e9;
+    margin-left: 35px;
+}
+.mapel1 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #F44336;
+    margin-left: 35px;
+}
+.mapel2 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #8BC34A;
+    margin-left: 35px;
+}
+.mapel3 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #2196F3;
+    margin-left: 35px;
+}
+.mapel4 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #F44336;
+    margin-left: 35px;
+}
+.mapel5 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #6dc1e9;
+    margin-left: 35px;
+}
+.mapel6 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #FFEB3B;
+    margin-left: 35px;
+}
+.mapel7 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    background: #4CAF50;
+    margin-left: 35px;
+}
+
+.judul {
+    margin-left: 51px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.shutdown.icon {
+  color: #000;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 3px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: solid 1px currentColor;
+}
+
+.shutdown.icon:before {
+  content: '';
+  position: absolute;
+  left: 3px;
+  top: -2px;
+  width: 1px;
+  height: 8px;
+  border-left: solid 3px white;
+  border-right: solid 3px white;
+  background-color: currentColor;
+}
+
+
+
+.bagan12 {text-align:  center;}
+
+textarea.span6 {
+    width: 90%;
+    height: 20.5rem;
+    border-radius: 9px;
+    background: #fff;
+    line-height: 1.188rem;
+    padding: 17px 20px;
+    resize: none;
+    overflow-y: auto;
+    -webkit-appearance: none;
+    position: relative;
+    transition: border 300ms;
+    border: 3px solid #e1e8ed;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.sg-select.js-subject-select {
+    margin-top: 17px;
+}
+
+
+
+.bagan {
+    padding: 1.5rem 24px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    width: 82%;
+    margin-left: 8%;
+    
+}
+
+.kotak-judul {
+    width: 82%;
+    margin-left: 8%;
+}
+
+.tulisan-atas {font-size: 20px;color: #a8d880;}
+
+button.btn.btn-info {
+    margin-bottom: 20px;
+}
+
+select.sg-select__element {
+    border-radius: 5px;
+    border: 3px solid #e1e8ed;
+    padding: 6px 6px;
+}
+
+.baganjawaban {
+    padding: 1.5rem 24px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    width: 82%;
+    margin-left: 8%;
+    white-space: pre-line;
+}
+
+.timeline-content1 {
+    background: #3dc4e6;
+    overflow:  hidden;
+    border: 1px solid white;
+    border-radius:  5px;
+    color:  white;
+    font-weight:  bolder;
+    padding-left: 20px;
+    margin-bottom:  8px;
+}
+
+.timeline-content2 {
+    background: #f84884;
+    overflow: hidden;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    padding-left: 20px;
+    margin-bottom: 8px;
+}
+
+.timeline-content3 {
+    background: #ff901f;
+    overflow: hidden;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    padding-left: 20px;
+    margin-bottom: 8px;
+}
+
+.timeline-content4 {
+    background: #a8ca3d;
+    overflow: hidden;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    padding-left: 20px;
+    margin-bottom: 8px;
+}
+
+a.btnmapel {
+    color: white;
+    float:  right;
+    padding-right: 6px;
+}
+
+div#timeline {
+    padding-bottom:  20px;
+}
+
+h1.project-name {
+}
+
+.bab1 {background: #3dc4e6;border-radius:  4px;padding-left: 10px;color:  white;text-align: left;overflow:  hidden;margin-top:  10px;margin-bottom: 10px;}
+
+div#tengah {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+}
+
+.bab2 {
+    background: #3dc4e6;
+    border-radius: 4px;
+    padding-left: 10px;
+    color: white;
+    text-align: left;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bab3 {
+    background: #3dc4e6;
+    border-radius: 4px;
+    padding-left: 10px;
+    color: white;
+    text-align: left;
+    margin-bottom:  30px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+a.btnbab {
+    float: right;
+    height:  100%;
+    padding-right: 20px;
+    line-height:  0px;
+    margin-top: -35px;
+    font-size: 20px;
+    color: white;
+}
+
+h2.judul1 {
+    width: 50%;
+}
+
+i.material-icons {
+    font-size: 40px;
+    color:  white;
+}
+
+i.material-icons:hover {
+    opacity: 0.7;
+}
+
+.timeline-content10 {
+    background: #ffffff;
+    overflow: hidden;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: bolder;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    padding-bottom: 8px;
+    margin-top: 9px;
+}
+
+span.glyphicon.glyphicon-home {
+    font-size: 15px;
+    
+}
+
+
+
+i.fa.fa-commenting {
+    font-size: 15px;
+}
+
+span.glyphicon.glyphicon-user {
+    font-size: 15px;
+}
+
+font.headerchat {
+    font-family: sans-serif;
+    font-size: 17px;
+}
+h3.judulchat {
+    text-align: center;
+}
+
+
+
+div#timeline {
+    background-color: #f7f7f7;
+}
+
+
+.homesiaptalk {
+    background-color: #f7f7f7;
+}
+a.btnbab1 {
+    float: right;
+    height: 100%;
+    padding-right: 20px;
+    line-height: 0px;
+    margin-top: -35px;
+    font-size: 20px;
+    color: #2a84de;
+}
+h2.biru {
+    color: #2a84de;
+}
+.obrolan {
+   overflow:  scroll;
+   height: auto;
+   overflow-x:  hidden;
+   overflow-y:  hidden;
+}
+
+.deskripsi {
+    margin-top: -15px;
+    margin-left: 57px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 270px;
+    overflow: hidden;
+}
+.online {
+    
+    margin-left: 57px;
+    color: green;
+}
+
+font.namachat {
+    font-size:  20px;
+   
+}
+
+header.headerchat {
+    background: #2a84de;
+    margin-bottom: 0px;
+    margin-top: -2px;
+    width: 100%;
+    color:  white;
+    position:  fixed;
+}
+
+.isichat {
+    background-color: #f7f7f7;
+    overflow:  scroll;
+    overflow-x:  hidden;
+    overflow-y:  hidden;
+    height: auto;
+    margin-bottom: 6px;
+}
+textarea.ngetikchat {
+    float:  left;
+    width: 77%;
+    margin-left: 6px;
+    margin-right: 6px;
+    resize:  none;
+    border-radius:  5px;
+    margin-top: 5px;
+    overflow-y:  hidden;
+}
+
+button.kirim {
+    height: 42px;
+    float:  left;
+    border:  none;
+    color: white;
+    width: 9%;
+    background: #5dcff3;
+    margin-top: 5px;
+}
+
+input#loadFileXml {
+    float:  left;
+    font-size:  25px;
+    background: #fafafa;
+    width: 10%;
+    border:  none;
+    margin-top:  5px;
+}
+
+.ngetik {position: fixed;bottom: 0;height: 55px;border-top: 1px solid lightgray;background-color: white;width: 100%;}
+
+i.fa.fa-arrow-left {
+    color:  white;
+}
+
+img.bulatbulat12 {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    margin-bottom: -1px;
+}
+
+.listchat1 {
+    background-color: #b6e6b6;
+    text-align:  left;
+    border-radius:  5px;
+    padding: 10px;
+    margin-left:  8px;
+    margin-top:  5px;
+    white-space:  pre-line;
+    width: 230px;
+}
+
+.listchat2 {
+    text-align:  right;
+    background-color:  aliceblue;
+    margin-top: 10px;
+    border: 1px solid #e7eef5;
+    border-radius:  5px;
+    margin-left: 100px;
+    padding: 10px;
+    white-space:  pre-line;
+}
+
+.center {
+    text-align:  center;
+    background-color:  ivory;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #bfbfbd;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.fadeinright {
+        float: right;
+    margin-right: 270px;
+    padding-top: 3px;
+}
+
+div#show {
+    /* padding-top: 40px; */
+}
+
+header.headermenu {
+    background: #2a84de;
+    margin-bottom: 0px;
+    margin-top: -2px;
+    width: 100%;
+    color: white;
+    position: absolute;
+    display: block;
+    z-index: 1;
+}
+
+div#home {
+    padding-top: 37px;
+}
+
+div#obrolan {
+    padding-top: 37px;
+}
+
+div#tambahteman {
+    padding-top: 37px;
+}
+
+div#timelinenf {
+    padding-top: 43px;
+}
+
+.isiobrolan {
+    padding-top: 40px;
+}
+
+.pullright {
+    float: right;
+    line-height: 20px;
+    padding-left: 5px;
+    margin-right: -6px;
+    margin-top: 16px;
+    font-size: 14px;
+    color: #2a84de;
+    font-weight: bold;
+}
+
+.pageprofile {
+    text-align:  center;
+    overflow:  hidden;
+}
+
+button.backprofile {
+    float:  left;
+    background:  transparent;
+    border:  none;
+    font-size: 23px;
+}
+
+img.profile {
+    width:  190px;
+    margin-right: 28px;
+}
+
+.namaguru {
+    background-color: #0000008a;
+    opacity: 0.2;
+    margin-top: -40px;
+}
+
+header.headerprofil {
+    background: #2a84de;
+    margin-bottom: 0px;
+    margin-top: -2px;
+    width: 100%;
+    color: white;
+    position: absolute;
+    display: block;
+    z-index: 1;
+}
+
+.deskripsiprofil {
+    color:  white;
+}
+
+.profil1page {
+    margin-top: 70px;
+}
+
+.judulprofil {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #2a84de;
+    margin-top: 10px;
+}
+
+.matapelajaran {
+    background:  white;
+    padding: 25px;
+    margin-left:  12px;
+    margin-right:  12px;
+    margin-top: 10px;
+}
+
+font.headerchatp {
+    padding-left: 67%;
+}
+
+span.biru {
+    color: #2a84de;
+}
+button.konsul {
+    float:  right;
+    padding:  10px;
+    margin-top:  7px;
+    border: 1px solid #f92020;
+    background: #f92020;
+    margin-right:  5px;
+    color:  white;
+    border-radius:  3px;
+    font-weight:  bold;
+}
+
